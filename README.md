@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<h1 align="center">Hi there👋, I'm Sejal Farkya</h1>
+
+- 🔭 Programming Enthusiast
+- 📫 Have queries or ideas to discuss, then reach me out at **sejalfarkya@gmail.com**
 
 <!--
 **sejal-farkya/sejal-farkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
