@@ -1,5 +1,7 @@
 
 <h1 align="center">Hi there👋, I'm Sejal Farkya</h1>
+<h4 align="center"><i>a curious geek!!</i></h4>
+
 
 - 🔭 Programming Enthusiast
 - 📫 Have queries or ideas to discuss, then reach me out at **sejalfarkya@gmail.com**
