@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Sejal Farkya</h1>
-<h3> align="center"><i>a curious geek!!</i></h3>
+<h3 align="center"><i>a curious geek!!</i></h3>
 
 
 - 🔭 Programming Enthusiast
